@@ -1,0 +1,7 @@
+https://docs.google.com/presentation/d/14MyhGwHOdov2fOkDFgRVKFx1wQ9Xm3zQfbahP_svKXk/edit#slide=id.g176a7de13d3_0_7
+
+https://dashboard.heroku.com/apps/nodejs-ci-cd-demo-zigndc/deploy/heroku-git
+
+http://dontpad.com/zig-ci-cd
+
+https://raw.githubusercontent.com/zignd/nodejs-ci-cd-demo/main/.github/workflows/tests-and-deploy.yml
