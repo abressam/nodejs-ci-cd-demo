@@ -28,7 +28,7 @@ jobs:
     if: github.ref_name == 'main'
     env:
       HEROKU_ACCOUNT_EMAIL: amandabressam@gmail.com
-      HEROKU_APP_NAME: nodejs-ci-cd-demo-zigndc
+      HEROKU_APP_NAME: nodejs-ci-cd-zigndc
     needs:
       - tests
     steps:
